@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+h1{
+color: white;
+background: linear-gradient(90deg, deeppink,lightcoral, red);
+box-shadow: 10px 10px 10px black;
+border-radius: 10px;
+font-family: cursive;
+}
+body{
+  background: linear-gradient(90deg, cyan, green);
+}
